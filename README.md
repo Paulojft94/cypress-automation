@@ -8,15 +8,13 @@ DemoQA contains many of the elements that are typical of most websites and it’
 
 ---
 
-### **Scope:** The project covers the following website features.
+### **Scope:** The project covers the folloswing website features.
 
 #### **Home Page:**
 
 - Verify that the website loads without errors
-
 - Check the navigation menu and its links
   Validate that the search bar functions correctly
-
 - Ensure that the footer contains all the required links
 
 #### **Forms:**
@@ -49,7 +47,7 @@ DemoQA contains many of the elements that are typical of most websites and it’
 
 #### **Tools and Technologies:**
 
-Cypress
-Typescript/Javascript
-Git
-NodeJs
+Cypress,
+Typescript/Javascript,
+Git,
+NodeJs,
