@@ -1,39 +1,5 @@
-# cypress-automation
+# Guidelines:
 
-cypress open
-Now you can open Cypress from your project root one of the following ways:
+The testware for the tis Cypress automation tests projetct is Demoqa: https://demoqa.com/
 
-Using npx
-
-Note: npx is included with npm > v5.2 or can be installed separately.
-
-npx cypress open
-
-Or by using yarn
-
-yarn run cypress open
-
-The long way with the full path
-
-./node_modules/.bin/cypress open
-
-Or with the shortcut using npm bin
-
-$(npm bin)/cypress open
-
-After a moment, the Cypress Launchpad will open.
-
-Adding npm Scripts
-While there's nothing wrong with writing out the full path to the Cypress executable each time, it's much easier and clearer to add Cypress commands to the scripts field in your package.json file.
-
-{
-"scripts": {
-"cypress:open": "cypress open"
-}
-}
-
-Now you can invoke the command from your project root like so:
-
-npm run cypress:open
-
-...and Cypress will open right up for you.
+`DemoQA contains many of the elements that are typical of most websites and it’s well oriented to practicing test automation, to be able to see how to approach each of the particular things that one can find, as elements of a list that are ordered with drag and drop, inputs of different formats, etc.`
